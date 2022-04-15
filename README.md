@@ -23,4 +23,3 @@ One of the advantages of rule-based chatbots is that they always give accurate r
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishvanath-metkari-586617197/)
-
