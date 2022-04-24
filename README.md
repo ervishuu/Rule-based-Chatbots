@@ -1,9 +1,9 @@
-# Rule-based-Chatbots
+# Rule-based-Chatbots 🤖 🤖
 
 
 >*What is a Chatbot?*
 
-A chatbot is a conversational agent capable of answering user queries in the form of text, speech, or via a graphical user interface. In simple words, a chatbot is a software application that can chat with a user on any topic. 
+A chatbot 🤖 is a conversational agent capable of answering user queries in the form of text, speech, or via a graphical user interface. In simple words, a chatbot is a software application that can chat with a user on any topic. 
 
 >*Learning-Based Chatbots*
 >
@@ -12,7 +12,7 @@ these chatbots are quite smarter than rule-based bots.
 
 >*Rule-Based Chatbots*
 
-Rule-based chatbots are pretty straight forward as compared to learning-based chatbots. There are a specific set of rules. If the user query matches any rule, the answer to the query is generated, otherwise the user is notified that the answer to user query doesn't exist.
+Rule-based chatbots 🤖 are pretty straight forward as compared to learning-based chatbots. There are a specific set of rules. If the user query matches any rule, the answer to the query is generated, otherwise the user is notified that the answer to user query doesn't exist.
 One of the advantages of rule-based chatbots is that they always give accurate results.
 
 
